@@ -1,5 +1,6 @@
 import pprint
 
+
 def solve(game_board):
 
     """
